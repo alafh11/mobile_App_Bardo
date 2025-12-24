@@ -1,0 +1,624 @@
+{
+  "categories": [
+    {
+      "id": "roman-era",
+      "title": "Roman Era",
+      "description": "Mosaics and artifacts from Roman period",
+      "color": "#8B4513",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the most famous Roman mosaic in Bardo Museum depicting the sea god?",
+          "options": [
+            "Virgil Mosaic",
+            "Triumph of Neptune",
+            "Medusa Mosaic",
+            "Dionysus Mosaic"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Triumph of Neptune mosaic shows the Roman god of the sea surrounded by marine creatures and is one of the museum's masterpieces."
+        },
+        {
+          "id": 2,
+          "question": "Which Roman city in Tunisia was known for its extensive mosaics now in Bardo?",
+          "options": [
+            "Carthage",
+            "Dougga",
+            "El Jem",
+            "All of the above"
+          ],
+          "correctAnswer": 3,
+          "explanation": "All these Roman cities in Tunisia contributed significant mosaics to the Bardo Museum collection."
+        },
+        {
+          "id": 3,
+          "question": "What material were most Roman mosaics in Bardo made from?",
+          "options": [
+            "Marble tiles",
+            "Glass pieces",
+            "Colored stones (tesserae)",
+            "Ceramic fragments"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Roman mosaics were primarily made from small colored stones called tesserae, carefully arranged to create intricate designs."
+        },
+        {
+          "id": 4,
+          "question": "The 'Virgil Mosaic' in Bardo depicts the poet holding which work?",
+          "options": [
+            "The Odyssey",
+            "The Iliad",
+            "The Aeneid",
+            "Metamorphoses"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Virgil Mosaic shows the Roman poet holding the Aeneid, his epic poem about the founding of Rome."
+        },
+        {
+          "id": 5,
+          "question": "Which mythological figure is often depicted in Bardo's mosaics with grapevines and wine?",
+          "options": [
+            "Apollo",
+            "Dionysus",
+            "Hercules",
+            "Mercury"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Dionysus, the god of wine and revelry, is frequently featured in Roman mosaics with grapevines and drinking scenes."
+        },
+        {
+          "id": 6,
+          "question": "What was the primary function of Roman villas where these mosaics were found?",
+          "options": [
+            "Military barracks",
+            "Agricultural estates",
+            "Religious temples",
+            "Public baths"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Most mosaics came from wealthy Roman villas that functioned as agricultural estates and luxury residences."
+        },
+        {
+          "id": 7,
+          "question": "The 'Seasons Mosaic' in Bardo represents how many seasons?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Roman mosaics typically represented the four seasons as allegorical figures or through seasonal activities."
+        },
+        {
+          "id": 8,
+          "question": "Which animal is commonly featured in hunting scene mosaics at Bardo?",
+          "options": [
+            "Elephants",
+            "Lions",
+            "Wild boars",
+            "All of the above"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Roman hunting mosaics often featured various African animals including lions, boars, and sometimes elephants."
+        },
+        {
+          "id": 9,
+          "question": "What technique was used to create the realistic shadows in Roman mosaics?",
+          "options": [
+            "Oil painting over stones",
+            "Varying stone colors and sizes",
+            "Glass inlays",
+            "Watercolor washes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Roman mosaic artists achieved realistic effects by using tesserae of varying colors and sizes to create shading and depth."
+        },
+        {
+          "id": 10,
+          "question": "Which Roman emperor's reign saw the peak of mosaic art in North Africa?",
+          "options": [
+            "Augustus",
+            "Hadrian",
+            "Constantine",
+            "Justinian"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The 2nd century AD, particularly during Hadrian's reign, marked the golden age of Roman mosaic art in North Africa."
+        },
+        {
+          "id": 11,
+          "question": "What mythological sea creature often appears in marine-themed mosaics?",
+          "options": [
+            "Mermaid",
+            "Sea serpent",
+            "Triton",
+            "Kraken"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Triton, the merman messenger of the sea, frequently appears in marine mosaics alongside Neptune."
+        },
+        {
+          "id": 12,
+          "question": "The 'Gladiator Mosaic' shows combat between men and what animals?",
+          "options": [
+            "Bears",
+            "Lions",
+            "Tigers",
+            "Crocodiles"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gladiator mosaics often depicted venationes - fights between hunters (venatores) and wild animals like lions."
+        },
+        {
+          "id": 13,
+          "question": "Which color was most expensive and rare in Roman mosaics?",
+          "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Purple"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Blue made from lapis lazuli was extremely rare and expensive, indicating the wealth of the villa owner."
+        },
+        {
+          "id": 14,
+          "question": "What geometric pattern is commonly used as borders in Roman mosaics?",
+          "options": [
+            "Spiral meander",
+            "Chevron",
+            "Greek key",
+            "All of the above"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Roman mosaics used various geometric patterns including Greek key, meander, and chevron designs as borders."
+        },
+        {
+          "id": 15,
+          "question": "The 'Chariot Racing Mosaic' depicts which famous circus?",
+          "options": [
+            "Circus Maximus",
+            "Hippodrome of Carthage",
+            "Colosseum",
+            "Circus of Maxentius"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Chariot racing mosaics typically depicted scenes from the Circus Maximus in Rome or local hippodromes."
+        }
+      ]
+    },
+    {
+      "id": "punic-history",
+      "title": "Punic History",
+      "description": "Carthaginian civilization",
+      "color": "#CD853F",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was the main deity worshipped in ancient Carthage?",
+          "options": [
+            "Baal Hammon",
+            "Jupiter",
+            "Apollo",
+            "Isis"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Baal Hammon was the chief god of the Carthaginian pantheon, often associated with fertility and the sky."
+        },
+        {
+          "id": 2,
+          "question": "What famous military leader from Carthage fought against Rome in the Second Punic War?",
+          "options": [
+            "Hannibal Barca",
+            "Alexander the Great",
+            "Julius Caesar",
+            "Scipio Africanus"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Hannibal Barca famously crossed the Alps with elephants to attack Rome during the Second Punic War (218-201 BC)."
+        },
+        {
+          "id": 3,
+          "question": "What was the primary language of ancient Carthage?",
+          "options": [
+            "Latin",
+            "Greek",
+            "Punic (Phoenician)",
+            "Berber"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Carthaginians spoke Punic, a variety of the Phoenician language, with their own writing system."
+        },
+        {
+          "id": 4,
+          "question": "What was the famous Carthaginian harbor called?",
+          "options": [
+            "Cothon",
+            "Portus",
+            "Limen",
+            "Navalia"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Cothon was the famous circular military harbor of Carthage, capable of housing hundreds of warships."
+        },
+        {
+          "id": 5,
+          "question": "Which goddess was the patron deity of Carthage?",
+          "options": [
+            "Tanit",
+            "Juno",
+            "Athena",
+            "Astarte"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Tanit was the chief goddess and patron deity of Carthage, often associated with Baal Hammon."
+        },
+        {
+          "id": 6,
+          "question": "What was the main economic activity of Carthage?",
+          "options": [
+            "Agriculture",
+            "Maritime trade",
+            "Mining",
+            "Manufacturing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Carthage was primarily a maritime trading power, controlling trade routes across the Mediterranean."
+        },
+        {
+          "id": 7,
+          "question": "How many Punic Wars were fought between Rome and Carthage?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "correctAnswer": 1,
+          "explanation": "There were three Punic Wars fought between 264 BC and 146 BC, ending with the complete destruction of Carthage."
+        },
+        {
+          "id": 8,
+          "question": "What famous phrase did Cato the Elder end his speeches with regarding Carthage?",
+          "options": [
+            "'Carthage must fall'",
+            "'Carthage must be destroyed'",
+            "'Carthage must surrender'",
+            "'Carthage must pay'"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cato the Elder famously ended all his speeches with 'Carthago delenda est' - 'Carthage must be destroyed'."
+        },
+        {
+          "id": 9,
+          "question": "What type of ships made Carthage a naval power?",
+          "options": [
+            "Triremes",
+            "Galleons",
+            "Longships",
+            "Caravels"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Carthage's navy was based on triremes - warships with three banks of oars that made them fast and maneuverable."
+        },
+        {
+          "id": 10,
+          "question": "What was the famous Carthaginian explorer who sailed to West Africa?",
+          "options": [
+            "Hanno the Navigator",
+            "Himilco the Navigator",
+            "Mago the Explorer",
+            "Hasdrubal the Sailor"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Hanno the Navigator was a Carthaginian explorer who conducted a voyage along the West African coast around 500 BC."
+        },
+        {
+          "id": 11,
+          "question": "What was the Tophet of Carthage used for?",
+          "options": [
+            "Royal burials",
+            "Religious sacrifices",
+            "Marketplace",
+            "Military training"
+          ],
+          "explanation": "The Tophet was a sacred precinct where archaeological evidence suggests ritual sacrifices, including child sacrifices, took place.",
+          "correctAnswer": 1
+        },
+        {
+          "id": 12,
+          "question": "Which Roman general finally destroyed Carthage in 146 BC?",
+          "options": [
+            "Scipio Aemilianus",
+            "Julius Caesar",
+            "Pompey the Great",
+            "Marcus Aurelius"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Scipio Aemilianus led the Roman army that finally destroyed Carthage after a three-year siege in 146 BC."
+        }
+      ]
+    },
+    {
+      "id": "islamic-art",
+      "title": "Islamic Art",
+      "description": "Islamic period artifacts",
+      "color": "#DAA520",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which Islamic dynasty built the Great Mosque of Kairouan?",
+          "options": [
+            "Umayyad",
+            "Aghlabid",
+            "Fatimid",
+            "Almohad"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Aghlabid dynasty built and expanded the Great Mosque of Kairouan in the 9th century, making it a major Islamic center."
+        },
+        {
+          "id": 2,
+          "question": "What is a distinctive feature of Islamic art in the Bardo Museum?",
+          "options": [
+            "Human statues",
+            "Geometric patterns",
+            "Oil portraits",
+            "Bronze weapons"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Islamic art is characterized by intricate geometric patterns, arabesques, and calligraphy, avoiding human representation per religious guidelines."
+        },
+        {
+          "id": 3,
+          "question": "Which type of script is commonly used in Islamic calligraphy in Tunisia?",
+          "options": [
+            "Kufic",
+            "Naskh",
+            "Thuluth",
+            "All of the above"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Islamic calligraphy in Tunisia used various scripts including Kufic, Naskh, and Thuluth for different purposes and periods."
+        },
+        {
+          "id": 4,
+          "question": "What material was commonly used for Islamic ceramics in Tunisia?",
+          "options": [
+            "Porcelain",
+            "Lusterware",
+            "Terracotta",
+            "Stoneware"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Lusterware, with its metallic iridescent glaze, was a hallmark of Islamic ceramics in Tunisia, particularly during the Fatimid period."
+        },
+        {
+          "id": 5,
+          "question": "The Minbar (pulpit) in the Great Mosque of Kairouan is made from what material?",
+          "options": [
+            "Marble",
+            "Teak wood",
+            "Ivory",
+            "Bronze"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The minbar of the Great Mosque of Kairouan is made from precious teak wood with intricate carved geometric patterns."
+        },
+        {
+          "id": 6,
+          "question": "What architectural element is characteristic of Islamic buildings in Tunisia?",
+          "options": [
+            "Domes",
+            "Horseshoe arches",
+            "Minarets",
+            "All of the above"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Islamic architecture in Tunisia features domes, horseshoe arches, and minarets as distinctive architectural elements."
+        },
+        {
+          "id": 7,
+          "question": "Which dynasty introduced glazed tiles to Tunisian Islamic art?",
+          "options": [
+            "Almohad",
+            "Hafsid",
+            "Ottoman",
+            "Mamluk"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Ottoman period introduced colorful glazed tiles (çini) to Tunisian Islamic architecture and decorative arts."
+        },
+        {
+          "id": 8,
+          "question": "What is the purpose of a Mihrab in Islamic architecture?",
+          "options": [
+            "Royal throne",
+            "Prayer niche",
+            "Water fountain",
+            "Book storage"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Mihrab is a niche in the mosque wall that indicates the qibla - the direction of Mecca for prayer."
+        },
+        {
+          "id": 9,
+          "question": "Which Islamic art form uses tiny pieces of colored glass or stone?",
+          "options": [
+            "Calligraphy",
+            "Mosaic",
+            "Miniature",
+            "Marquetry"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Islamic mosaics, like those in the Great Mosque of Damascus, used tiny colored glass and stone pieces to create intricate patterns."
+        },
+        {
+          "id": 10,
+          "question": "What is the name of the Islamic star pattern commonly seen in Tunisian art?",
+          "options": [
+            "Girih",
+            "Arabesque",
+            "Zellij",
+            "Muqarnas"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Girih are intricate geometric star patterns used in Islamic art, often featuring 6, 8, or 12-pointed stars."
+        },
+        {
+          "id": 11,
+          "question": "Which metalworking technique was perfected by Islamic artisans?",
+          "options": [
+            "Bronze casting",
+            "Gold plating",
+            "Brass inlay",
+            "Silver filigree"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Islamic metalworkers excelled at brass inlay work, decorating objects with silver, gold, and copper wires hammered into engraved patterns."
+        },
+        {
+          "id": 12,
+          "question": "What type of manuscript illumination is characteristic of Islamic art?",
+          "options": [
+            "Icon painting",
+            "Miniature painting",
+            "Fresco",
+            "Stained glass"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Islamic miniature painting flourished in manuscript illumination, featuring detailed, colorful scenes often in literary or historical texts."
+        }
+      ]
+    },
+    {
+      "id": "all-periods",
+      "title": "All Periods",
+      "description": "Mixed questions from all eras",
+      "color": "#B8860B",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In which year was the Bardo Museum established?",
+          "options": [
+            "1882",
+            "1888",
+            "1900",
+            "1920"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Bardo Museum was established in 1888 in a former beylic palace, making it one of Africa's oldest museums."
+        },
+        {
+          "id": 2,
+          "question": "What type of museum is the Bardo primarily known as?",
+          "options": [
+            "Art museum",
+            "Archaeological museum",
+            "Natural history museum",
+            "Science museum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Bardo is primarily an archaeological museum, famous for its extensive collection of Roman mosaics."
+        },
+        {
+          "id": 3,
+          "question": "Which famous mosaic shows a poet writing?",
+          "options": [
+            "Neptune Mosaic",
+            "Virgil Mosaic",
+            "Gladiator Mosaic",
+            "Seasons Mosaic"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Virgil Mosaic is famous for depicting the Roman poet Virgil seated between two muses, holding a scroll of the Aeneid."
+        },
+        {
+          "id": 4,
+          "question": "What architectural style is the Bardo Museum building?",
+          "options": [
+            "Ottoman",
+            "Islamic",
+            "Husainid Palace",
+            "Modern"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The museum is housed in a 19th-century Husainid palace, reflecting traditional Tunisian architectural styles."
+        },
+        {
+          "id": 5,
+          "question": "Which period's artifacts form the largest collection in Bardo?",
+          "options": [
+            "Punic",
+            "Roman",
+            "Islamic",
+            "Prehistoric"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Roman period, particularly mosaics, forms the largest and most famous collection in the Bardo Museum."
+        },
+        {
+          "id": 6,
+          "question": "What tragic event occurred at the Bardo Museum in 2015?",
+          "options": [
+            "Fire",
+            "Terrorist attack",
+            "Flood",
+            "Earthquake"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In March 2015, a terrorist attack at the museum killed 22 people, mainly tourists, leading to increased security measures."
+        },
+        {
+          "id": 7,
+          "question": "Which famous Carthaginian relic is NOT in Bardo?",
+          "options": [
+            "Punic sarcophagi",
+            "Tanit stelae",
+            "Hannibal's armor",
+            "Ancient jewelry"
+          ],
+          "correctAnswer": 2,
+          "explanation": "While Bardo has extensive Punic collections, Hannibal's personal armor has never been found and is not in the museum."
+        },
+        {
+          "id": 8,
+          "question": "What makes Bardo's mosaic collection unique worldwide?",
+          "options": [
+            "Largest number",
+            "Best preservation",
+            "Largest single mosaic",
+            "All of the above"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Bardo has the world's largest, best-preserved collection of Roman mosaics, including some of the largest individual pieces."
+        },
+        {
+          "id": 9,
+          "question": "Which international recognition does Bardo Museum have?",
+          "options": [
+            "World Heritage Site",
+            "Seven Wonders",
+            "Time's Best Museum",
+            "UNESCO Memory of World"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Bardo Museum is part of the UNESCO World Heritage Site 'Archaeological Site of Carthage' since 1979."
+        },
+        {
+          "id": 10,
+          "question": "What is the approximate number of mosaics in Bardo's collection?",
+          "options": [
+            "Over 500",
+            "Over 1000",
+            "Over 2000",
+            "Over 5000"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Bardo Museum houses over 2,000 Roman mosaics, making it the largest collection in the world."
+        }
+      ]
+    }
+  ]
+}
